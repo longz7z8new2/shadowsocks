@@ -7,7 +7,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 - - -
 
-原生V2Ray部署： <https://github.com/ygcaicn/v2ray-heroku>
+原生V2Ray部署： <https://github.com/longz7z8new2/shadowsocks>
 
 - - -
 
